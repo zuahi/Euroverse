@@ -102,7 +102,7 @@
    ![스크린샷(32)](https://user-images.githubusercontent.com/57661445/106380894-9521ed80-63f8-11eb-9df8-68bfdf543e6f.png)
    
    **<요청한 동행 목록>**
-   ![스크린샷(29)](https://user-images.githubusercontent.com/57661445/106380892-93582a00-63f8-11eb-8dab-797a9e1a58ac.png)
+   ![스크린샷(29)](https://user-images.githubusercontent.com/57661445/106381334-53467680-63fb-11eb-8b67-c6cd6e5cecbf.png)
     
     
     
