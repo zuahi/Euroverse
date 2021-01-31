@@ -4,6 +4,7 @@
   ###### [<p align="center"><img src="https://ifh.cc/g/jfEoC6.png" width="400px">](http://13.125.136.145:8080/)  << 로고 클릭시 홈페이지로 이동</p>
   
 - - -  
+
 # :blue_book: 목차
   ###     1. 개요
   ###     2. 담당 모듈
@@ -32,7 +33,7 @@
     - QnA 게시판은 전체, 루트, 도시, 교통, 숙소, 쇼핑/경비/환전, 기타 별로 게시글 분류
     - 인기글게시판은 **스프링 스케쥴러**를 사용하여 일간/주간/월간별로 리셋후 조회수가 높은 순으로 등록  
 
-   ######  <p align="center"><img src="https://ifh.cc/g/atKFPY.png" width=350> 자유게시판 목록  <img src="https://ifh.cc/g/blNuYg.png" width=350> 게시글 조회 </p>
+   ######  <p align="center"><img src="https://ifh.cc/g/atKFPY.png" width=380>자유게시판 목록 <img src="https://ifh.cc/g/blNuYg.png" width=350>게시글 조회</p>
    
    **1-1. 회원이 작성한 플래너를 공유하는 플래너공유 게시판**
    + 기능 : 작성한 플래너를 플래너공유 게시판에 등록할 수 있고 등록된 플래너들은 다른 회원들이 본인의 플래너로 내려받기 가능
@@ -40,7 +41,7 @@
      - 플래너 조회 페이지에서 바로 공유가 가능하며 클릭시 플래너공유 게시판 작성하기 페이지로 이동
      - 작성하기 페이지에서 회원이 등록한 플래너들을 리스트로 보여주며 선택등록 가능
      
-   ######  <p align="center"><img src="https://ifh.cc/g/u5egi9.jpg" width=200> 플래너공유 게시판 목록 </p>
+   ######  <p align="center"><img src="https://ifh.cc/g/u5egi9.jpg" width=500>플래너공유 게시판 목록 </p>
    
    **1-2. 댓글과 대댓글**
    + 기능 : 게시글에 댓글/대댓글 작성 가능
@@ -49,7 +50,7 @@
      - 신고하기와 좋아요, 좋아요 취소 가능
      - 대댓글이 달렸는데 댓글 삭제시 "삭제된 댓글입니다" 문구로 변경되고 대댓글 작성 불가
      
-   ######  <p align="center"><img src="https://ifh.cc/g/DGAVkE.png" width=200> 댓글과 대댓글 목록 </p> 
+   ######  <p align="center"><img src="https://ifh.cc/g/DGAVkE.png" width=500>댓글과 대댓글 목록 </p> 
 
 **2. 동행**
   + 기능 : 제목, 동행시작일, 동행종료일, 인원, 내용, 태그를 입력 후 게시글을 등록 회원들은 동행 참여 메세지를 보낼 수 있고 동행에 참여한 회원들의 목록이 게시글에 나타남
@@ -60,14 +61,14 @@
     - 동행인원이 2명 이상일 경우 채팅방개설 버튼 생성
     - 동행신청 버튼 클릭시 동행 게시글 작성자에게 메세지를 작성하여 신청 가능
 
-   ######  <p align="center"><img src="https://ifh.cc/g/jIRIdy.png" width=350> 신청받은 동행  <img src="https://ifh.cc/g/8WtXhy.png" width=350> 요청한 동행 </p> 
+   ######  <p align="center"><img src="https://ifh.cc/g/jIRIdy.png" width=400>동행찾기 게시글  <img src="https://ifh.cc/g/8WtXhy.png" width=300>동행신청 모달 </p> 
     
    **2-1. 참여중인 동행**
    + 기능 : 현재 참여중인 동행 목록을 보여주며 탈퇴하기 가능
    + 설명
      - 현재 참여중인 동행 목록을 동행 게시글 제목, 회원들의 프로필 사진, 닉네임, 여행스타일과 함께 보여주며 목록에서 탈퇴하기버튼 클릭시 동행 목록에서 사라지며 참여자 명단에서 제외
      
-   ######  <p align="center"><img src="https://ifh.cc/g/Mlp63C.png" width=200> 참여중인 동행 </p> 
+   ######  <p align="center"><img src="https://ifh.cc/g/Mlp63C.png" width=500>참여중인 동행 목록</p> 
      
    **2-2. 신청받은 동행, 요청한 동행**
    + 기능 : 회원이 작성한 게시글에서 신청받은 동행 목록을 보여주는 신청받은 동행과 동행신청한 제안 목록을 보여주는 요청한 동행
@@ -76,7 +77,7 @@
      - (신청받은 동행) 수락버튼 클릭시 동행에 참여되며 동행 목록이 보여지고 거절버튼 클릭시 신청받은 동행 목록에서 제거
      - (요청한 동행) 게시글 작성자가 동행 수락/거절 버튼 클릭시 요청한 동행 목록에서 제거 
     
-   ######  <p align="center"><img src="https://ifh.cc/g/AA57cC.jpg" width=350> 신청받은 동행  <img src="https://ifh.cc/g/wLo5a1.jpg" width=350> 요청한 동행 </p>
+   ######  <p align="center"><img src="https://ifh.cc/g/AA57cC.jpg" width=300>신청받은 동행  <img src="https://ifh.cc/g/wLo5a1.jpg" width=400>요청한 동행 </p>
     
 <!--사진 유효기간 : 200일  (만료 : 2021-08-10)-->
 
