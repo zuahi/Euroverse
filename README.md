@@ -1,7 +1,7 @@
 # ✈️ Euroverse    
 유로버스(여행 플래너 및 커뮤니티 사이트)는 국비학원에서 진행한 팀프로젝트입니다.
 
-  ###### [<p align="center"><img src="https://user-images.githubusercontent.com/57661445/142063613-37302fd2-249f-4a6d-9635-d8894960af5e.png" width="500px">](http://13.125.136.145:8080/)  << 로고 클릭시 홈페이지로 이동</p>
+  ###### [<p align="center"><img src="https://user-images.githubusercontent.com/57661445/142063613-37302fd2-249f-4a6d-9635-d8894960af5e.png" width="600px">](http://13.125.136.145:8080/)  << 사진 클릭시 홈페이지 이동</p>
   
 - - -  
 
